@@ -59,8 +59,7 @@ export const steps: Step[] = [
     id: 'photo-profil',
     title: 'Photo de profil',
     description: 'Ajoutez une photo qui représente cette personne',
-    type: 'profile-photo',
-  },
+type: 'default',
   {
     id: 'style',
     title: 'Choix du style d\'écriture',
